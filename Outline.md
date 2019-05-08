@@ -89,7 +89,7 @@ At the end of this hands-on lab, you will be better able to build solutions for 
    - WinForms app:
      - Update to use APIs hosted in Azure
      - Update database connection to Azure SQL DB instance
-     - Use ExpressRoute for fast connection from on-premises
+     ~~- Use ExpressRoute for fast connection from on-premises ~~
    - MVC app:
      - Replace a controller with Function App (incorporate serverless)
      - Scale Function App capability
